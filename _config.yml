@@ -1,39 +1,8 @@
-name: Best Video Stock
-description: Welcome to our video blog.
-url: 'https://bestvideostock.github.io'
-baseurl: '/bestvideo'
-email: bestvideostock@gmail.com
-twitter: https://twitter.com/username
-youtube: https://www.youtube.com/username
-facebook: https://www.facebook.com/username
-google_analytics: 'UA-00000000-1'
-
-################################################################
-################################################################
-gems:
-  - jekyll-sitemap
-sass:
-  sass_dir: /assets/_sass
-  style: :compressed
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - CNAME
-  - .gitignore
-collections:
-  videos:
-    output: true
-    permalink: /:path/
-defaults:
-  -
-    scope:
-      path: ''
-      type: posts
-    values:
-      layout: post
-  -
-    scope:
-      path: ''
-      type: videos
-    values:
-      layout: video
+name: Photo gallery
+markdown: redcarpet
+pygments: true
+permalink: /:year/:month/:title/
+url: https://iamnii.github.io/GridGallery/
+author:
+    name: Adjetey Sowah
+    twitter: #
