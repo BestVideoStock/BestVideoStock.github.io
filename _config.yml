@@ -1,11 +1,11 @@
-name: Jekyll Video
-description: Template for a video blog.
-url: 'https://jekyll-video.com'
-baseurl: '/jekyll-video'
-email: jekyll-video@example.com
-twitter: https://twitter.com/jekyll-video
-youtube: https://www.youtube.com/jekyll-video
-facebook: https://www.facebook.com/jekyll-video
+name: Best Video Stock
+description: Welcome to our video blog.
+url: 'https://bestvideostock.github.io'
+baseurl: '/bestvideo'
+email: bestvideostock@gmail.com
+twitter: https://twitter.com/username
+youtube: https://www.youtube.com/username
+facebook: https://www.facebook.com/username
 google_analytics: 'UA-00000000-1'
 
 ################################################################
